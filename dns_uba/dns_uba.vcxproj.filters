@@ -1,0 +1,777 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\big_endian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\binary_log_types.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\byte_order_generic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\byte_order_generic_x86.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\decimal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\errmsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\keycache.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\little_endian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\client_authentication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\client_plugin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\com_data.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\get_password.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\group_replication_priv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\innodb_priv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\mysql_lex_string.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_audit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_auth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_auth_common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_ftparser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_group_replication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_keyring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_trace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\plugin_validate_password.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_file.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_idle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_mdl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_memory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_ps.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_socket.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_sp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_stage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_statement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_table.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_thread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_transaction.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\psi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\psi_base.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\psi\psi_memory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\services.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_command.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_locking.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_alloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_keyring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_password_policy.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_string.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_my_plugin_log.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_my_snprintf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_parser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_rpl_transaction_ctx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_rpl_transaction_write_set.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_rules_table.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_security_context.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_srv_session.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_srv_session_info.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_ssl_wrapper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_thd_alloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_thd_engine_lock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_thd_wait.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\service_thread_scheduler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\thread_pool_priv.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql\thread_type.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysqld_ername.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysqld_error.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql_com.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql_com_server.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql_embed.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql_time.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\mysql_version.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_alloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_byteorder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_command.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_compiler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_config.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_dbug.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_dir.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_getopt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_global.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_sys.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_thread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_thread_local.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\my_xml.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\m_ctype.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\m_string.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\plugin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\plugin_audit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\plugin_ftparser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\plugin_group_replication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\plugin_keyring.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\plugin_validate_password.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\sql_common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\sql_state.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\sslopt-case.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\sslopt-longopts.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\sslopt-vars.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\thr_cond.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\thr_mutex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\thr_rwlock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\mysql\include\typelib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\abstract.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\accu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\asdl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\ast.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\bitset.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\bltinmodule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\boolobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\bytearrayobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\bytesobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\bytes_methods.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\cellobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\ceval.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\classobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\code.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\codecs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\compile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\complexobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\context.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\datetime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\descrobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\dictobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\dtoa.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\dynamic_annotations.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\enumobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\errcode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\eval.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\fileobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\fileutils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\floatobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\frameobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\funcobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\genobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\graminit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\grammar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\import.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\ceval.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\condvar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\context.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\gil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\hamt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\hash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\import.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\mem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\pygetopt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\pystate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\internal\warnings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\intrcheck.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\iterobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\listobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\longintrepr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\longobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\marshal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\memoryobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\metagrammar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\methodobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\modsupport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\moduleobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\namespaceobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\node.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\object.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\objimpl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\odictobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\opcode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\osdefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\osmodule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\parsetok.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\patchlevel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pgen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pgenheaders.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyarena.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyatomic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pycapsule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyconfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyctype.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pydebug.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pydtrace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyerrors.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyexpat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyfpe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyhash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pylifecycle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pymacconfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pymacro.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pymath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pymem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pyport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pystate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pystrcmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pystrhex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pystrtod.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\Python-ast.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\Python.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pythonrun.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pythread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\pytime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\py_curses.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\rangeobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\setobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\sliceobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\structmember.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\structseq.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\symtable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\sysmodule.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\token.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\traceback.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\tupleobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\typeslots.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\ucnhash.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\unicodeobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\warnings.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\python\include\weakrefobject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\bittypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\ip6_misc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\Packet32.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap\bluetooth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap\bpf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap\namedb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap\pcap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap\sll.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap\usb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap\vlan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap-bpf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap-namedb.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap-stdinc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\pcap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\remote-ext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ref\wpdpack\Include\Win32-Extensions.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dns_uba.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\char.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\left-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\matrix.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\pos-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\rewrite.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\right-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\char.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\left-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\matrix.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\pos-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\rewrite.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\right-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\char.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\left-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\matrix.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\pos-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\rewrite.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\right-id.def">
+      <Filter>源文件</Filter>
+    </None>
+    <None Include="python37.dll" />
+    <None Include="exe\class_to_domain.exe" />
+    <None Include="exe\create_userdata_table.exe" />
+    <None Include="exe\get_user_data.exe" />
+    <None Include="exe\kmeans_and_randomforest.exe" />
+    <None Include="exe\user_forecast.exe" />
+    <None Include="result.csv" />
+  </ItemGroup>
+</Project>

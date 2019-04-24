@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{F89B1F32-4E3E-4E07-B353-039EDF6B791D}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>dnsuba</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>TurnOffAllWarnings</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;HAVE_REMOTE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalIncludeDirectories>F:\乱七八糟\stitp\dns_uba\dns_uba\ref\wpdpack\Include;F:\乱七八糟\stitp\dns_uba\dns_uba\ref\mysql\include;F:\乱七八糟\stitp\dns_uba\dns_uba\ref\python\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>libmysql.lib;wpcap.lib;Packet.lib;python37.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>F:\乱七八糟\stitp\dns_uba\dns_uba\ref\wpdpack\Lib;F:\乱七八糟\stitp\dns_uba\dns_uba\ref\mysql\lib;F:\乱七八糟\stitp\dns_uba\dns_uba\ref\python\libs;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="ref\mysql\include\big_endian.h" />
+    <ClInclude Include="ref\mysql\include\binary_log_types.h" />
+    <ClInclude Include="ref\mysql\include\byte_order_generic.h" />
+    <ClInclude Include="ref\mysql\include\byte_order_generic_x86.h" />
+    <ClInclude Include="ref\mysql\include\decimal.h" />
+    <ClInclude Include="ref\mysql\include\errmsg.h" />
+    <ClInclude Include="ref\mysql\include\keycache.h" />
+    <ClInclude Include="ref\mysql\include\little_endian.h" />
+    <ClInclude Include="ref\mysql\include\mysql.h" />
+    <ClInclude Include="ref\mysql\include\mysqld_ername.h" />
+    <ClInclude Include="ref\mysql\include\mysqld_error.h" />
+    <ClInclude Include="ref\mysql\include\mysql\client_authentication.h" />
+    <ClInclude Include="ref\mysql\include\mysql\client_plugin.h" />
+    <ClInclude Include="ref\mysql\include\mysql\com_data.h" />
+    <ClInclude Include="ref\mysql\include\mysql\get_password.h" />
+    <ClInclude Include="ref\mysql\include\mysql\group_replication_priv.h" />
+    <ClInclude Include="ref\mysql\include\mysql\innodb_priv.h" />
+    <ClInclude Include="ref\mysql\include\mysql\mysql_lex_string.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_audit.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_auth.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_auth_common.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_ftparser.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_group_replication.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_keyring.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_trace.h" />
+    <ClInclude Include="ref\mysql\include\mysql\plugin_validate_password.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_file.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_idle.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_mdl.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_memory.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_ps.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_socket.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_sp.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_stage.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_statement.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_table.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_thread.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\mysql_transaction.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\psi.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\psi_base.h" />
+    <ClInclude Include="ref\mysql\include\mysql\psi\psi_memory.h" />
+    <ClInclude Include="ref\mysql\include\mysql\services.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_command.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_locking.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_alloc.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_keyring.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_password_policy.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_mysql_string.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_my_plugin_log.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_my_snprintf.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_parser.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_rpl_transaction_ctx.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_rpl_transaction_write_set.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_rules_table.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_security_context.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_srv_session.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_srv_session_info.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_ssl_wrapper.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_thd_alloc.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_thd_engine_lock.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_thd_wait.h" />
+    <ClInclude Include="ref\mysql\include\mysql\service_thread_scheduler.h" />
+    <ClInclude Include="ref\mysql\include\mysql\thread_pool_priv.h" />
+    <ClInclude Include="ref\mysql\include\mysql\thread_type.h" />
+    <ClInclude Include="ref\mysql\include\mysql_com.h" />
+    <ClInclude Include="ref\mysql\include\mysql_com_server.h" />
+    <ClInclude Include="ref\mysql\include\mysql_embed.h" />
+    <ClInclude Include="ref\mysql\include\mysql_time.h" />
+    <ClInclude Include="ref\mysql\include\mysql_version.h" />
+    <ClInclude Include="ref\mysql\include\my_alloc.h" />
+    <ClInclude Include="ref\mysql\include\my_byteorder.h" />
+    <ClInclude Include="ref\mysql\include\my_command.h" />
+    <ClInclude Include="ref\mysql\include\my_compiler.h" />
+    <ClInclude Include="ref\mysql\include\my_config.h" />
+    <ClInclude Include="ref\mysql\include\my_dbug.h" />
+    <ClInclude Include="ref\mysql\include\my_dir.h" />
+    <ClInclude Include="ref\mysql\include\my_getopt.h" />
+    <ClInclude Include="ref\mysql\include\my_global.h" />
+    <ClInclude Include="ref\mysql\include\my_list.h" />
+    <ClInclude Include="ref\mysql\include\my_sys.h" />
+    <ClInclude Include="ref\mysql\include\my_thread.h" />
+    <ClInclude Include="ref\mysql\include\my_thread_local.h" />
+    <ClInclude Include="ref\mysql\include\my_xml.h" />
+    <ClInclude Include="ref\mysql\include\m_ctype.h" />
+    <ClInclude Include="ref\mysql\include\m_string.h" />
+    <ClInclude Include="ref\mysql\include\plugin.h" />
+    <ClInclude Include="ref\mysql\include\plugin_audit.h" />
+    <ClInclude Include="ref\mysql\include\plugin_ftparser.h" />
+    <ClInclude Include="ref\mysql\include\plugin_group_replication.h" />
+    <ClInclude Include="ref\mysql\include\plugin_keyring.h" />
+    <ClInclude Include="ref\mysql\include\plugin_validate_password.h" />
+    <ClInclude Include="ref\mysql\include\sql_common.h" />
+    <ClInclude Include="ref\mysql\include\sql_state.h" />
+    <ClInclude Include="ref\mysql\include\sslopt-case.h" />
+    <ClInclude Include="ref\mysql\include\sslopt-longopts.h" />
+    <ClInclude Include="ref\mysql\include\sslopt-vars.h" />
+    <ClInclude Include="ref\mysql\include\thr_cond.h" />
+    <ClInclude Include="ref\mysql\include\thr_mutex.h" />
+    <ClInclude Include="ref\mysql\include\thr_rwlock.h" />
+    <ClInclude Include="ref\mysql\include\typelib.h" />
+    <ClInclude Include="ref\python\include\abstract.h" />
+    <ClInclude Include="ref\python\include\accu.h" />
+    <ClInclude Include="ref\python\include\asdl.h" />
+    <ClInclude Include="ref\python\include\ast.h" />
+    <ClInclude Include="ref\python\include\bitset.h" />
+    <ClInclude Include="ref\python\include\bltinmodule.h" />
+    <ClInclude Include="ref\python\include\boolobject.h" />
+    <ClInclude Include="ref\python\include\bytearrayobject.h" />
+    <ClInclude Include="ref\python\include\bytesobject.h" />
+    <ClInclude Include="ref\python\include\bytes_methods.h" />
+    <ClInclude Include="ref\python\include\cellobject.h" />
+    <ClInclude Include="ref\python\include\ceval.h" />
+    <ClInclude Include="ref\python\include\classobject.h" />
+    <ClInclude Include="ref\python\include\code.h" />
+    <ClInclude Include="ref\python\include\codecs.h" />
+    <ClInclude Include="ref\python\include\compile.h" />
+    <ClInclude Include="ref\python\include\complexobject.h" />
+    <ClInclude Include="ref\python\include\context.h" />
+    <ClInclude Include="ref\python\include\datetime.h" />
+    <ClInclude Include="ref\python\include\descrobject.h" />
+    <ClInclude Include="ref\python\include\dictobject.h" />
+    <ClInclude Include="ref\python\include\dtoa.h" />
+    <ClInclude Include="ref\python\include\dynamic_annotations.h" />
+    <ClInclude Include="ref\python\include\enumobject.h" />
+    <ClInclude Include="ref\python\include\errcode.h" />
+    <ClInclude Include="ref\python\include\eval.h" />
+    <ClInclude Include="ref\python\include\fileobject.h" />
+    <ClInclude Include="ref\python\include\fileutils.h" />
+    <ClInclude Include="ref\python\include\floatobject.h" />
+    <ClInclude Include="ref\python\include\frameobject.h" />
+    <ClInclude Include="ref\python\include\funcobject.h" />
+    <ClInclude Include="ref\python\include\genobject.h" />
+    <ClInclude Include="ref\python\include\graminit.h" />
+    <ClInclude Include="ref\python\include\grammar.h" />
+    <ClInclude Include="ref\python\include\import.h" />
+    <ClInclude Include="ref\python\include\internal\ceval.h" />
+    <ClInclude Include="ref\python\include\internal\condvar.h" />
+    <ClInclude Include="ref\python\include\internal\context.h" />
+    <ClInclude Include="ref\python\include\internal\gil.h" />
+    <ClInclude Include="ref\python\include\internal\hamt.h" />
+    <ClInclude Include="ref\python\include\internal\hash.h" />
+    <ClInclude Include="ref\python\include\internal\import.h" />
+    <ClInclude Include="ref\python\include\internal\mem.h" />
+    <ClInclude Include="ref\python\include\internal\pygetopt.h" />
+    <ClInclude Include="ref\python\include\internal\pystate.h" />
+    <ClInclude Include="ref\python\include\internal\warnings.h" />
+    <ClInclude Include="ref\python\include\intrcheck.h" />
+    <ClInclude Include="ref\python\include\iterobject.h" />
+    <ClInclude Include="ref\python\include\listobject.h" />
+    <ClInclude Include="ref\python\include\longintrepr.h" />
+    <ClInclude Include="ref\python\include\longobject.h" />
+    <ClInclude Include="ref\python\include\marshal.h" />
+    <ClInclude Include="ref\python\include\memoryobject.h" />
+    <ClInclude Include="ref\python\include\metagrammar.h" />
+    <ClInclude Include="ref\python\include\methodobject.h" />
+    <ClInclude Include="ref\python\include\modsupport.h" />
+    <ClInclude Include="ref\python\include\moduleobject.h" />
+    <ClInclude Include="ref\python\include\namespaceobject.h" />
+    <ClInclude Include="ref\python\include\node.h" />
+    <ClInclude Include="ref\python\include\object.h" />
+    <ClInclude Include="ref\python\include\objimpl.h" />
+    <ClInclude Include="ref\python\include\odictobject.h" />
+    <ClInclude Include="ref\python\include\opcode.h" />
+    <ClInclude Include="ref\python\include\osdefs.h" />
+    <ClInclude Include="ref\python\include\osmodule.h" />
+    <ClInclude Include="ref\python\include\parsetok.h" />
+    <ClInclude Include="ref\python\include\patchlevel.h" />
+    <ClInclude Include="ref\python\include\pgen.h" />
+    <ClInclude Include="ref\python\include\pgenheaders.h" />
+    <ClInclude Include="ref\python\include\pyarena.h" />
+    <ClInclude Include="ref\python\include\pyatomic.h" />
+    <ClInclude Include="ref\python\include\pycapsule.h" />
+    <ClInclude Include="ref\python\include\pyconfig.h" />
+    <ClInclude Include="ref\python\include\pyctype.h" />
+    <ClInclude Include="ref\python\include\pydebug.h" />
+    <ClInclude Include="ref\python\include\pydtrace.h" />
+    <ClInclude Include="ref\python\include\pyerrors.h" />
+    <ClInclude Include="ref\python\include\pyexpat.h" />
+    <ClInclude Include="ref\python\include\pyfpe.h" />
+    <ClInclude Include="ref\python\include\pyhash.h" />
+    <ClInclude Include="ref\python\include\pylifecycle.h" />
+    <ClInclude Include="ref\python\include\pymacconfig.h" />
+    <ClInclude Include="ref\python\include\pymacro.h" />
+    <ClInclude Include="ref\python\include\pymath.h" />
+    <ClInclude Include="ref\python\include\pymem.h" />
+    <ClInclude Include="ref\python\include\pyport.h" />
+    <ClInclude Include="ref\python\include\pystate.h" />
+    <ClInclude Include="ref\python\include\pystrcmp.h" />
+    <ClInclude Include="ref\python\include\pystrhex.h" />
+    <ClInclude Include="ref\python\include\pystrtod.h" />
+    <ClInclude Include="ref\python\include\Python-ast.h" />
+    <ClInclude Include="ref\python\include\Python.h" />
+    <ClInclude Include="ref\python\include\pythonrun.h" />
+    <ClInclude Include="ref\python\include\pythread.h" />
+    <ClInclude Include="ref\python\include\pytime.h" />
+    <ClInclude Include="ref\python\include\py_curses.h" />
+    <ClInclude Include="ref\python\include\rangeobject.h" />
+    <ClInclude Include="ref\python\include\setobject.h" />
+    <ClInclude Include="ref\python\include\sliceobject.h" />
+    <ClInclude Include="ref\python\include\structmember.h" />
+    <ClInclude Include="ref\python\include\structseq.h" />
+    <ClInclude Include="ref\python\include\symtable.h" />
+    <ClInclude Include="ref\python\include\sysmodule.h" />
+    <ClInclude Include="ref\python\include\token.h" />
+    <ClInclude Include="ref\python\include\traceback.h" />
+    <ClInclude Include="ref\python\include\tupleobject.h" />
+    <ClInclude Include="ref\python\include\typeslots.h" />
+    <ClInclude Include="ref\python\include\ucnhash.h" />
+    <ClInclude Include="ref\python\include\unicodeobject.h" />
+    <ClInclude Include="ref\python\include\warnings.h" />
+    <ClInclude Include="ref\python\include\weakrefobject.h" />
+    <ClInclude Include="ref\wpdpack\Include\bittypes.h" />
+    <ClInclude Include="ref\wpdpack\Include\ip6_misc.h" />
+    <ClInclude Include="ref\wpdpack\Include\Packet32.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap-bpf.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap-namedb.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap-stdinc.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap\bluetooth.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap\bpf.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap\namedb.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap\pcap.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap\sll.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap\usb.h" />
+    <ClInclude Include="ref\wpdpack\Include\pcap\vlan.h" />
+    <ClInclude Include="ref\wpdpack\Include\remote-ext.h" />
+    <ClInclude Include="ref\wpdpack\Include\Win32-Extensions.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dns_uba.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="exe\class_to_domain.exe" />
+    <None Include="exe\create_userdata_table.exe" />
+    <None Include="exe\get_user_data.exe" />
+    <None Include="exe\kmeans_and_randomforest.exe" />
+    <None Include="exe\user_forecast.exe" />
+    <None Include="python37.dll" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\char.bin" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\left-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\matrix.bin" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\pos-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\rewrite.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_euc-jp\right-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\char.bin" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\left-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\matrix.bin" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\pos-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\rewrite.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_sjis\right-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\char.bin" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\left-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\matrix.bin" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\pos-id.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\rewrite.def" />
+    <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\right-id.def" />
+    <None Include="result.csv" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
