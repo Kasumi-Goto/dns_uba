@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['kmeans_and_randomforest.py'],
-             pathex=['F:\\ÂÒÆß°ËÔã\\stitp\\dns_uba\\4classify_and_forecast'],
+             pathex=['D:\\Github\\dns_uba\\4classify_and_forecast'],
              binaries=[],
              datas=[],
              hiddenimports=[],

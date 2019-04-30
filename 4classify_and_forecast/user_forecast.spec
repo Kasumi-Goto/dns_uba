@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['user_forecast.py'],
-             pathex=['F:\\¬“∆ﬂ∞À‘„\\stitp\\dns_uba\\4classify_and_forecast'],
+             pathex=['D:\\Github\\dns_uba\\4classify_and_forecast'],
              binaries=[],
              datas=[],
              hiddenimports=[],

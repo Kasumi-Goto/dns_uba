@@ -1,2 +1,3 @@
-﻿  dns_uba.cpp
+﻿  pch.cpp
+  dns_uba.cpp
   dns_uba.vcxproj -> F:\乱七八糟\stitp\dns_uba\dns_uba\Debug\dns_uba.exe

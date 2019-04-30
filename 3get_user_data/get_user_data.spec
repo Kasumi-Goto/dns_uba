@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['get_user_data.py'],
-             pathex=['F:\\ÂÒÆß°ËÔã\\stitp\\dns_uba\\3get_user_data'],
+             pathex=['D:\\Github\\dns_uba\\3get_user_data'],
              binaries=[],
              datas=[],
              hiddenimports=[],

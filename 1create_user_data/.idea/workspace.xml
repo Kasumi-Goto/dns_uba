@@ -4,7 +4,151 @@
     <bookmark url="file://$PROJECT_DIR$/create_userdata_table.py" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="503fc3ca-adb5-4574-ac5e-a22fb0b6ade3" name="Default Changelist" comment="" />
+    <list default="true" id="503fc3ca-adb5-4574-ac5e-a22fb0b6ade3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../dns_uba.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libmysql.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/ipch/86d3c2b16743bf47.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/ipch/86d3c2b16743bf47.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.log" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pch" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/pch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/pch.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/python37.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Tfidf_Result(1).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/dns_uba.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/dns_uba.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/class_to_domain.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/create_userdata_table.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/get_user_data.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/kmeans_and_randomforest.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/user_forecast.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/python37.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/Python-ast.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/Python.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/abstract.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/accu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/asdl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/ast.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bitset.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bltinmodule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/boolobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bytearrayobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bytes_methods.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bytesobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/cellobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/ceval.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/classobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/code.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/codecs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/compile.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/complexobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/context.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/datetime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/descrobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/dictobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/dtoa.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/dynamic_annotations.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/enumobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/errcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/eval.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/fileobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/fileutils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/floatobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/frameobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/funcobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/genobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/graminit.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/grammar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/import.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/ceval.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/condvar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/context.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/gil.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/hamt.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/hash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/import.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/mem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/pygetopt.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/pystate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/warnings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/intrcheck.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/iterobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/listobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/longintrepr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/longobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/marshal.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/memoryobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/metagrammar.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/methodobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/modsupport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/moduleobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/namespaceobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/node.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/object.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/objimpl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/odictobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/opcode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/osdefs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/osmodule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/parsetok.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/patchlevel.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pgen.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pgenheaders.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/py_curses.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyarena.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyatomic.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pycapsule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyconfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyctype.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pydebug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pydtrace.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pydtrace.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyerrors.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyexpat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyfpe.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyhash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pylifecycle.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymacconfig.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymacro.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymath.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymem.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyport.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystrcmp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystrhex.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystrtod.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pythonrun.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pythread.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pytime.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/rangeobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/setobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/sliceobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/structmember.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/structseq.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/symtable.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/sysmodule.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/token.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/traceback.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/tupleobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/typeslots.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/ucnhash.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/unicodeobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/warnings.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/weakrefobject.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/libs/_tkinter.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/libs/python3.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/libs/python37.lib" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +156,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/1create_user_data$create_userdata_table.coverage" NAME="create_userdata_table Coverage Results" MODIFIED="1556106650744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/1create_user_data$ssl.coverage" NAME="ssl Coverage Results" MODIFIED="1556625768008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Anaconda3/envs/python32/Lib" />
+    <SUITE FILE_PATH="coverage/1create_user_data$create_userdata_table.coverage" NAME="create_userdata_table Coverage Results" MODIFIED="1556632012411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1381051823">
@@ -45,19 +190,46 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="447453197">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/create_userdata_table.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-35">
-              <caret line="60" column="31" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="31" />
+            <state relative-caret-position="215">
+              <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#5215#5374#0" />
-                <element signature="e#6019#6350#0" />
-                <element signature="e#9253#9500#0" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +241,9 @@
     <findStrings>
       <find>count</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,6 +263,7 @@
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,7 +285,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../4classify_and_forecast" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -126,7 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.create_userdata_table">
     <configuration name="create_userdata_table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="1create_user_data" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,9 +325,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ssl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1create_user_data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/Anaconda3/envs/python32/Lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/Anaconda3/envs/python32/Lib/ssl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.create_userdata_table" />
+      <item itemvalue="Python.ssl" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.create_userdata_table" />
+        <item itemvalue="Python.ssl" />
       </list>
     </recent_temporary>
   </component>
@@ -170,20 +373,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5206612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19705094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -198,6 +400,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -206,29 +418,47 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/create_userdata_table.py</url>
-          <line>66</line>
-          <option name="timeStamp" value="14" />
+          <line>227</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://D:/Anaconda3/envs/python32/Lib/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chardet/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="282">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1372" selection-start-line="1372" selection-end-line="1372" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/create_userdata_table.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-35">
-          <caret line="60" column="31" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="31" />
+        <state relative-caret-position="215">
+          <caret line="100" column="38" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#5215#5374#0" />
-            <element signature="e#6019#6350#0" />
-            <element signature="e#9253#9500#0" />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>

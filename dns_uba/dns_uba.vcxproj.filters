@@ -766,12 +766,6 @@
     <None Include="ref\mysql\lib\mecab\dic\ipadic_utf-8\right-id.def">
       <Filter>源文件</Filter>
     </None>
-    <None Include="python37.dll" />
-    <None Include="exe\class_to_domain.exe" />
-    <None Include="exe\create_userdata_table.exe" />
-    <None Include="exe\get_user_data.exe" />
-    <None Include="exe\kmeans_and_randomforest.exe" />
-    <None Include="exe\user_forecast.exe" />
     <None Include="result.csv" />
   </ItemGroup>
 </Project>

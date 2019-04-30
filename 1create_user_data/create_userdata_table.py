@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import random
 import socket
 import traceback
@@ -7,6 +8,10 @@ import urllib.request
 import re
 import urllib.parse
 from bs4 import BeautifulSoup
+
+# from fake_useragent import UserAgent
+
+# ua = UserAgent()
 
 # 连接配置信息
 config = {
@@ -41,11 +46,12 @@ def read_Sql(db, sql):
 def get_html(url):
     my_headers = [
         # 模拟浏览器
-        "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)        Chrome/48.0.2564.116 Safari/537.36",
-        "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0",
-        "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)   Chrome/45.0.2454.101 Safari/537.36",
-        "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36"
+        "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36"
     ]
+    # headers = {"User-Agent": ua.random}
     random_header = random.choice(my_headers)
     success = False
     attempts = 1
@@ -89,7 +95,7 @@ def findTitle(html):
         content = data1.decode(chardit1['encoding'], 'ignore').encode(chardit1['encoding'], 'ignore')
         html.close()
         soup = BeautifulSoup(content, "html.parser")
-        title = soup.select("title")
+        title = soup.select('title')
         if len(title) != 0:
             if title[0].text.strip() != '':
                 return [True, title[0].text.strip()]
@@ -216,9 +222,9 @@ if __name__ == '__main__':
                     origin = fname[x][1]  # 原域名
                     top = fname[x][0][0]  # 顶级域名
                     html1 = get_html(origin)  # 原域名html
-                    available1 = isUrlAvilable(html1)
                     html2 = get_html(top)  # 顶级域名html
-                    available2 = isUrlAvilable(html2)  # 可进
+                    available1 = isUrlAvilable(html1)  # 可进
+                    available2 = isUrlAvilable(html2)
                     if available1:
                         [ok1, title1] = findTitle(html1)  # 有title
                         if ok1:
@@ -233,6 +239,7 @@ if __name__ == '__main__':
                                 [fname[begin][2], fname[end][2], title2, fname[begin][0][1], fname[begin][0][0]])
                             index += 1
             for y in fflag:
+                print(y)
                 result1 = []
                 sql1 = "SELECT pid, request_time, ip_saddr FROM package WHERE pid=%d" % y[0]  # [包号，时间，用户ip]
                 try:

@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['class_to_domain.py'],
-             pathex=['F:\\ÂÒÆß°ËÔã\\stitp\\dns_uba\\2class_to_domain'],
+             pathex=['D:\\Github\\dns_uba\\2class_to_domain'],
              binaries=[],
              datas=[],
              hiddenimports=[],
