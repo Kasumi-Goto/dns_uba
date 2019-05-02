@@ -49,9 +49,9 @@
       <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/cursors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/cursors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/util.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3get_user_data/result.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/4classify_and_forecast.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/4classify_and_forecast.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4classify_and_forecast.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/Analysis-00.toc" afterDir="false" />
@@ -880,6 +880,7 @@
     <session id="62442714">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>

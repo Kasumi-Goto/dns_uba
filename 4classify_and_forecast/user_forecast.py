@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from sklearn.externals import joblib
 from sklearn.datasets import load_iris
 import RF1.RF1 as a

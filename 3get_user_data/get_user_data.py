@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import csv
 
 import pymysql
@@ -55,7 +56,7 @@ def save_csv(filename, data):
 if __name__ == '__main__':
     db = pymysql.connect(**config)
     sql = """
-                CREATE TABLE tmptime AS
+                CREATE TABLE IF NOT EXISTS tmptime AS
                     (SELECT start_time AS start_time, user_ip AS user_ip, user_time AS user_time, COUNT(user_time) AS counts 
                         FROM userdata
                         GROUP BY user_ip, user_time ORDER BY user_ip, COUNT(user_time) DESC);"""
@@ -70,23 +71,26 @@ if __name__ == '__main__':
         arr = []
         tmpdict = {}
         type = ['教育', '购物', '社会', '体育', '科技', '军事', '娱乐', '财经', '生活', '女性健康', '其他']
-        if i[1] != 0:
-            tmpdict = {type[0]: int(i[1])}
-        for x in range(1, 11):
-            if i[x + 1] != 0:
-                tmpdict.update({type[x]: int(i[x + 1])})
-        keys = sorted(tmpdict.items(), key=lambda k: k[1], reverse=True)
-        if len(keys) == 1:
-            res.append([i[0], keys[0][0], -1, -1, i[12]])
-        elif len(keys) == 2:
-            res.append([i[0], keys[0][0], keys[1][0], -1, i[12]])
-        elif len(keys) >= 3:
-            res.append([i[0], keys[0][0], keys[1][0], keys[2][0], i[12]])
+        if i[1] != None:
+            if i[1] != 0:
+                tmpdict = {type[0]: int(i[1])}
+            for x in range(1, 11):
+                if i[x + 1] != 0:
+                    tmpdict.update({type[x]: int(i[x + 1])})
+            keys = sorted(tmpdict.items(), key=lambda k: k[1], reverse=True)
+            if len(keys) == 1:
+                res.append([i[0], keys[0][0], -1, -1, i[12]])
+            elif len(keys) == 2:
+                res.append([i[0], keys[0][0], keys[1][0], -1, i[12]])
+            elif len(keys) >= 3:
+                res.append([i[0], keys[0][0], keys[1][0], keys[2][0], i[12]])
+        else:
+            continue
     save_csv("result.csv", res)
     print("\n------------------------")
     print("用户常用网站类型get")
 
-    sql = "DROP TABLE tmptime"
+    sql = "DROP TABLE IF EXISTS tmptime"
     cursor = db.cursor()
     try:
         cursor.execute(sql)

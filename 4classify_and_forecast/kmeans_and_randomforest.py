@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import list.list as list  # 自己的
 import RF1.RF1 as RF1
 import codecs
@@ -21,7 +22,6 @@ corpus = []
 for line in csv.reader(open('result.csv', 'r')):
     s = ','.join(line)
     corpus.append(s)
-# print(corpus)
 
 # 将文本中的词语转换为词频矩阵 矩阵元素a[i][j] 表示j词在i类文本下的词频
 vectorizer = CountVectorizer()
@@ -66,9 +66,6 @@ clf = KMeans(n_clusters=int(clusters))
 s = clf.fit(weight)
 print(s)
 
-# 中心点
-# print(clf.cluster_centers_)
-
 # 每个样本所属的簇
 label = []  # 存储1000个类标 4个类
 # print(clf.labels_)
@@ -92,11 +89,11 @@ for line in r_csv:
     j = j + 1
 f2.close()
 f1.close()
+
 ########################################################################
 #                               第三步 图形输出 降维
 pca = PCA(n_components=2)  # 输出两维
 newData = pca.fit_transform(weight)  # 载入N维
-# print(newData)
 
 x = []
 y = []

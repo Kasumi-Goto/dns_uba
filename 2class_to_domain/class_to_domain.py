@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from os import _exit
 from fuzzywuzzy import fuzz
 import pymysql
@@ -24,8 +25,7 @@ def read_SqlUnclass(db, sql):
         cursor.execute(sql)
         results = cursor.fetchall()
         for row in results:
-            domainList.append([row[0], row[1]])
-        # print(domainList)
+            domainList.append([row[0], row[1], row[2]])
     except:
         print("Error: unable to fetch data")
 
@@ -37,7 +37,6 @@ def read_SqlClass(db, sql):
         results = cursor.fetchall()
         for row in results:
             classList.append([row[0], row[1]])
-        # print(classList+'\n')
     except:
         print("Error: unable to fetch data\n")
 
@@ -50,46 +49,21 @@ def Classify(s1, s2):
         return False
 
 
-def setClassToDomain():
+def setClassToDomain(db):
+    sql = "SELECT url, class FROM website"
+    read_SqlClass(db, sql)
     for d in domainList:
         for c in classList:
             flag = True
             if Classify(d[0], c[0]):
                 d.append(c[1])
+                d.append(1)
                 flag = False
                 break
         if flag:
             d.append(1024)
-    # print(domainList)
-    print("\n------------------------")
-    print("更新"+str(len(domainList))+"条数据")
-
-
-if __name__ == '__main__':
-    # 连接数据库
-    db = pymysql.connect(**config)
-    sql = "SELECT web_domainname, id,title FROM userdata WHERE flag=0"
-    read_SqlUnclass(db, sql)
-
-    sql = "SELECT url, class FROM website"
-    read_SqlClass(db, sql)
-
-    setClassToDomain()
-    for i in domainList:
-        print(i)
-        sql = "UPDATE userdata SET web_class=%s,flag=1 WHERE id=%s"
-        para = (i[2], int(i[1]))
-        cursor = db.cursor()
-        try:
-            cursor.execute(sql, para)
-            db.commit()
-        except:
-            traceback.print_exc()
-            db.rollback()
-            break
-        if(i[end]==0):
-            sql2 = "INSERT INTO website (url,name,class) VALUES (%s,%s,%s)"
-            para = (i[0], int(i[1]),i[2])
+            sql = "INSERT INTO website (url,name,class) VALUES (%s,%s,%s)"
+            para = (d[0], d[2], d[3])
             cursor = db.cursor()
             try:
                 cursor.execute(sql, para)
@@ -98,5 +72,28 @@ if __name__ == '__main__':
                 traceback.print_exc()
                 db.rollback()
                 break
+
+
+if __name__ == '__main__':
+    # 连接数据库
+    db = pymysql.connect(**config)
+    sql = "SELECT web_domainname, id, web_title FROM userdata WHERE flag=0"
+    read_SqlUnclass(db, sql)
+
+    setClassToDomain(db)
+    print("\n------------------------")
+    print("更新" + str(len(domainList)) + "条数据")
+    for i in domainList:
+        print([i[0], i[2], i[3]])
+        sql = "UPDATE userdata SET web_class=%s,flag=1 WHERE id=%s"
+        para = (i[3], i[1])
+        cursor = db.cursor()
+        try:
+            cursor.execute(sql, para)
+            db.commit()
+        except:
+            traceback.print_exc()
+            db.rollback()
+            break
     db.close()
     _exit(0)

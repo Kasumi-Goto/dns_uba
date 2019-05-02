@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="503fc3ca-adb5-4574-ac5e-a22fb0b6ade3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/EXE-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PKG-00.pkg" afterDir="false" />
@@ -75,7 +74,7 @@
     <session id="447453197">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.opened" value="4" />
@@ -140,7 +139,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -254,8 +253,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20241287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -291,6 +289,32 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
