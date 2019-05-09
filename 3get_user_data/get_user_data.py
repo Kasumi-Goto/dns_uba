@@ -47,7 +47,7 @@ def getdata():
 
 
 def save_csv(filename, data):
-    with open(filename, 'w+', newline='') as f:
+    with open(filename, mode='w+', encoding='utf-8', newline='') as f:
         w_csv = csv.writer(f)
         w_csv.writerows(data)
     f.close()

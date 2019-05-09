@@ -2,34 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d193c81d-e4b7-40ab-b064-4a77b63fa2dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../dns_uba.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../libmysql.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/.idea/2class_to_domain.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/warn-class_to_domain.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/warn-class_to_domain.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/xref-class_to_domain.html" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/build/class_to_domain/xref-class_to_domain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/class_to_domain.spec" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/class_to_domain.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/dist/class_to_domain.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/dist/class_to_domain.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/pymysql/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/pymysql/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/pymysql/_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/pymysql/_auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/pymysql/charset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/pymysql/charset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/pymysql/connections.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/pymysql/connections.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/pymysql/converters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/pymysql/converters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/pymysql/cursors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/pymysql/cursors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2class_to_domain/pymysql/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2class_to_domain/pymysql/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/.idea/3get_user_data.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1capture.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../1capture.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/warn-create_userdata_table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/warn-create_userdata_table.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/xref-create_userdata_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/build/create_userdata_table/xref-create_userdata_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1create_user_data/dist/create_userdata_table.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../1create_user_data/dist/create_userdata_table.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2create_userdata_table.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../2create_userdata_table.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3get_user_data/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/EXE-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/PKG-00.pkg" afterDir="false" />
@@ -40,780 +26,33 @@
       <change beforePath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/warn-get_user_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/warn-get_user_data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/xref-get_user_data.html" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/build/get_user_data/xref-get_user_data.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3get_user_data/dist/get_user_data.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/dist/get_user_data.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/get_user_data.spec" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/get_user_data.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/_auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/charset.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/charset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/connections.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/connections.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/converters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/converters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/cursors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/cursors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/pymysql/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/pymysql/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3get_user_data/result.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3get_user_data/get_user_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/get_user_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3get_user_data/result.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../3get_user_data/result.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/4classify_and_forecast.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/4classify_and_forecast.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/Tree-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/Tree-01.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/warn-kmeans_and_randomforest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/warn-kmeans_and_randomforest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kmeans_and_randomforest/xref-kmeans_and_randomforest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/kmeans_and_randomforest/xref-kmeans_and_randomforest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/Analysis-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/EXE-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/PKG-00.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/PKG-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/PYZ-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/Tree-00.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/Tree-01.toc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/user_forecast/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/warn-user_forecast.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/user_forecast/xref-user_forecast.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/kmeans_and_randomforest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/dist/kmeans_and_randomforest.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/user_forecast.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeans_and_randomforest.spec" beforeDir="false" afterPath="$PROJECT_DIR$/kmeans_and_randomforest.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/_contour.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/_image.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/_path.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/_png.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/_qhull.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/_tri.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/_windowing.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/backends/_backend_agg.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/backends/_tkagg.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/concrt140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/matplotlib/concrt140.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/ft2font.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/msvcp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/matplotlib/msvcp140.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplotlib/ttconv.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/.libs/libopenblas.JKAMQ5EVHIVCPXP2XZJB2RQPIN47S32M.gfortran-win32.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/__config__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/_distributor_init.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/_globals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/_pytesttester.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/compat/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/compat/_inspect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/compat/py3k.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/compat/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/compat/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/compat/tests/test_compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/conftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_add_newdocs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_aliased_types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_dtype.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_dtype_ctypes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_dummy.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_internal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_methods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_multiarray_tests.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_multiarray_umath.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_operand_flag_tests.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_rational_tests.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_string_helpers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_struct_ufunc_tests.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_type_aliases.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/_umath_tests.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/arrayprint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/cversions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/defchararray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/einsumfunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/fromnumeric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/function_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/generate_numpy_api.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/getlimits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/__multiarray_api.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/__ufunc_api.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/_neighborhood_iterator_imp.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/_numpyconfig.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/arrayobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/arrayscalars.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/halffloat.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/multiarray_api.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/ndarrayobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/ndarraytypes.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/noprefix.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_1_7_deprecated_api.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_3kcompat.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_common.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_cpu.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_endian.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_interrupt.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_math.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_no_deprecated_api.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/npy_os.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/numpyconfig.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/old_defines.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/oldnumeric.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/ufunc_api.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/ufuncobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/include/numpy/utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/lib/npy-pkg-config/mlib.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/lib/npy-pkg-config/npymath.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/lib/npymath.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/machar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/memmap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/multiarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/numeric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/numerictypes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/overrides.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/records.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/setup_common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/shape_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/_locales.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/data/astype_copy.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/data/recarray_from_file.fits" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_abc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_api.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_arrayprint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_datetime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_defchararray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_deprecations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_dtype.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_einsum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_errstate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_extint128.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_function_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_getlimits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_half.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_indexerrors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_indexing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_item_selection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_longdouble.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_machar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_mem_overlap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_memmap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_multiarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_nditer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_numeric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_numerictypes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_overrides.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_records.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_scalar_ctors.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_scalarbuffer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_scalarinherit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_scalarmath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_scalarprint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_shape_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_ufunc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_umath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_umath_complex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/tests/test_unicode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/umath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/core/umath_tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ctypeslib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/__config__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/__version__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/_shell_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/ccompiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/autodist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/bdist_rpm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/build.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/build_clib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/build_ext.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/build_py.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/build_scripts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/build_src.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/config_compiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/develop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/egg_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/install.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/install_clib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/install_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/install_headers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/command/sdist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/conv_template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/cpuinfo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/exec_command.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/extension.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/absoft.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/compaq.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/environment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/g95.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/gnu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/hpux.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/ibm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/intel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/lahey.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/mips.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/nag.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/none.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/pathf95.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/pg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/sun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/fcompiler/vast.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/from_template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/intelccompiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/lib2def.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/line_endings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/mingw/gfortran_vs2003_hack.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/mingw32ccompiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/misc_util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/msvc9compiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/msvccompiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/npy_pkg_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/numpy_distribution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/pathccompiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/system_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_exec_command.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_fcompiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_fcompiler_gnu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_fcompiler_intel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_fcompiler_nagfor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_from_template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_misc_util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_npy_pkg_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_shell_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/tests/test_system_info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/distutils/unixccompiler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/broadcasting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/byteswapping.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/constants.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/creation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/glossary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/indexing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/internals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/misc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/structured_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/subclassing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/doc/ufuncs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/dual.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/__version__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/auxfuncs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/capi_maps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/cb_rules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/cfuncs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/common_rules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/crackfortran.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/diagnose.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/f2py2e.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/f2py_testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/f90mod_rules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/func2subr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/rules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/src/fortranobject.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/src/fortranobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/assumed_shape/.f2py_f2cmap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/assumed_shape/foo_free.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/assumed_shape/foo_mod.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/assumed_shape/foo_use.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/assumed_shape/precision.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/common/block.f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/kind/foo.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/mixed/foo.f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/mixed/foo_fixed.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/mixed/foo_free.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/parameter/constant_both.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/parameter/constant_compound.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/parameter/constant_integer.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/parameter/constant_non_compound.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/parameter/constant_real.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/regression/inout.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/size/foo.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/src/string/char.f90" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_array_from_pyobj.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_assumed_shape.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_block_docstring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_callback.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_common.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_compile_function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_kind.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_mixed.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_parameter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_quoted_character.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_return_character.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_return_complex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_return_integer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_return_logical.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_return_real.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_semicolon_split.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_size.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/test_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/tests/util.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/f2py/use_rules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/fftpack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/fftpack_lite.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/tests/test_fftpack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/fft/tests/test_helper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/_datasource.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/_iotools.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/_version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/arraypad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/arraysetops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/arrayterator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/financial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/function_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/histograms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/index_tricks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/mixins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/nanfunctions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/npyio.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/polynomial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/recfunctions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/scimath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/shape_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/stride_tricks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/data/py2-objarr.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/data/py2-objarr.npz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/data/py3-objarr.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/data/py3-objarr.npz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/data/python3.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/data/win64python2.npy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test__datasource.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test__iotools.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test__version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_arraypad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_arraysetops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_arrayterator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_financial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_function_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_histograms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_index_tricks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_io.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_mixins.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_nanfunctions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_packbits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_polynomial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_recfunctions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_shape_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_stride_tricks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_twodim_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_type_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_ufunclike.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/tests/test_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/twodim_base.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/type_check.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/ufunclike.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/user_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/lib/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/_umath_linalg.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/lapack_lite.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/linalg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/tests/test_build.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/tests/test_deprecations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/tests/test_linalg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/linalg/tests/test_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/bench.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/extras.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/mrecords.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/test_core.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/test_deprecations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/test_extras.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/test_mrecords.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/test_old_ma.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/test_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/tests/test_subclassing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/testutils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/timer_comparison.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/ma/version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matlib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/defmatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/test_defmatrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/test_interaction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/test_masked_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/test_matrix_linalg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/test_multiarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/test_numeric.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/matrixlib/tests/test_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/_polybase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/chebyshev.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/hermite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/hermite_e.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/laguerre.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/legendre.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/polynomial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/polyutils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_chebyshev.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_classes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_hermite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_hermite_e.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_laguerre.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_legendre.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_polynomial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_polyutils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/polynomial/tests/test_printing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/info.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/mtrand.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/randomkit.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/tests/test_random.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/random/tests/test_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/_private/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/_private/decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/_private/noseclasses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/_private/nosetester.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/_private/parameterized.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/_private/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/noseclasses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/nosetester.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/print_coercion_tables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/tests/test_decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/tests/test_doctesting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/tests/test_utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/testing/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/test_ctypeslib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/test_matlib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/test_numpy_version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/test_public_api.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/test_reloading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/test_scripts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/tests/test_warnings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy/version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/algos.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/concrt140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/_libs/concrt140.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/groupby.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/hashing.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/hashtable.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/index.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/indexing.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/internals.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/interval.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/join.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/json.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/lib.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/missing.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/msvcp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/_libs/msvcp140.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/ops.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/parsers.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/properties.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/reduction.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/reshape.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/skiplist.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/sparse.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/testing.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslib.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/ccalendar.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/conversion.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/fields.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/frequencies.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/nattype.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/np_datetime.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/offsets.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/parsing.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/period.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/resolution.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/strptime.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/timedeltas.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/timestamps.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/tslibs/timezones.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/window.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_libs/writers.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/_version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/compat/numpy/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/compat/numpy/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/algorithms.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/algorithms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/arrays/categorical.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/arrays/categorical.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/arrays/datetimes.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/arrays/datetimes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/arrays/timedeltas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/arrays/timedeltas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/dtypes/dtypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/dtypes/dtypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/dtypes/inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/dtypes/inference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/frame.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/frame.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/generic.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/generic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/groupby/generic.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/groupby/generic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/indexes/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/indexes/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/internals/blocks.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/internals/blocks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/internals/concat.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/internals/concat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/internals/managers.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/internals/managers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/reshape/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/reshape/merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/series.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/core/sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/core/sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/io/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/formats/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/io/formats/format.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/formats/terminal.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/io/formats/terminal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/json/table_schema.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/io/json/table_schema.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/msgpack/_packer.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/msgpack/_unpacker.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/pytables.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/io/pytables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/io/sas/_sas.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/plotting/_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/plotting/_core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/arithmetic/test_datetime64.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/arithmetic/test_datetime64.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/arrays/categorical/test_constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/arrays/categorical/test_constructors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/arrays/sparse/test_array.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/arrays/sparse/test_array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/arrays/test_period.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/arrays/test_period.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/arrays/test_timedeltas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/arrays/test_timedeltas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/dtypes/test_dtypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/dtypes/test_dtypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/dtypes/test_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/dtypes/test_inference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/frame/test_analytics.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/frame/test_analytics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/frame/test_apply.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/frame/test_apply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/frame/test_constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/frame/test_constructors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/frame/test_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/frame/test_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/frame/test_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/frame/test_replace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/frame/test_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/frame/test_to_csv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/groupby/test_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/groupby/test_transform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/interval/test_interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/interval/test_interval.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/interval/test_interval_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/interval/test_interval_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/multi/test_analytics.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/multi/test_analytics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/multi/test_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/multi/test_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/period/test_indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/period/test_indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/test_category.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/test_category.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/indexes/timedeltas/test_tools.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/indexes/timedeltas/test_tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/io/formats/test_console.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/io/formats/test_console.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/io/json/test_pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/io/json/test_pandas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/io/test_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/io/test_excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/io/test_pytables.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/io/test_pytables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/plotting/test_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/plotting/test_series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/reductions/test_reductions.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/reductions/test_reductions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/resample/test_datetime_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/resample/test_datetime_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/reshape/merge/test_join.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/reshape/merge/test_join.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/reshape/merge/test_merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/reshape/merge/test_merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/series/test_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/series/test_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/series/test_duplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/series/test_duplicates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/series/test_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/series/test_operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/series/test_replace.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/series/test_replace.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/series/test_repr.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/series/test_repr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/test_algos.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/test_algos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/test_downstream.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/test_downstream.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/tests/test_sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas/tests/test_sorting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas/util/_move.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/__check_build/_check_build.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/_isotonic.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/cluster/_dbscan_inner.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/cluster/_hierarchical.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/cluster/_k_means.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/cluster/_k_means_elkan.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/datasets/_svmlight_format.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/decomposition/_online_lda.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/decomposition/cdnmf_fast.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/ensemble/_gradient_boosting.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/feature_extraction/_hashing.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/linear_model/cd_fast.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/linear_model/sag_fast.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/linear_model/sgd_fast.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/manifold/_barnes_hut_tsne.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/manifold/_utils.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/metrics/cluster/expected_mutual_info_fast.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/metrics/pairwise_fast.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/neighbors/ball_tree.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/neighbors/dist_metrics.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/neighbors/kd_tree.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/neighbors/quad_tree.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/neighbors/typedefs.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/svm/liblinear.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/svm/libsvm.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/svm/libsvm_sparse.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/tree/_criterion.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/tree/_splitter.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/tree/_tree.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/tree/_utils.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/_logistic_sigmoid.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/_random.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/arrayfuncs.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/fast_dict.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/graph_shortest_path.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/lgamma.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/murmurhash.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/seq_dataset.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/sparsefuncs_fast.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sklearn/utils/weight_vector.cp37-win32.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_forecast.spec" beforeDir="false" afterPath="$PROJECT_DIR$/user_forecast.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_forecast.csv" beforeDir="false" afterPath="$PROJECT_DIR$/user_forecast.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4get_user_data.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../4get_user_data.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/.suo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/Browse.VC.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/ipch/86d3c2b16743bf47.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/ipch/86d3c2b16743bf47.ipch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.ilk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.log" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pch" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/CL.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.command.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/dns_uba.tlog/link.read.1.tlog" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/pch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/pch.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/python37.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/vc141.idb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Debug/vc141.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/Tfidf_Result(1).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/.vs/dns_uba/v15/Browse.VC.opendb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.iobj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.iobj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.ipdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.ipdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.log" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.pch" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.pch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/dns_uba.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/dns_uba.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/dns_uba.write.1u.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/dns_uba.write.1u.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/dns_uba.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/pch.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/pch.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/Release/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/Release/vc141.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dns_uba/dns_uba.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/dns_uba.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj.filters" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/class_to_domain.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/create_userdata_table.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/get_user_data.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/kmeans_and_randomforest.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/exe/user_forecast.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/python37.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/Python-ast.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/Python.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/abstract.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/accu.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/asdl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/ast.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bitset.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bltinmodule.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/boolobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bytearrayobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bytes_methods.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/bytesobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/cellobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/ceval.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/classobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/code.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/codecs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/compile.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/complexobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/context.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/datetime.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/descrobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/dictobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/dtoa.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/dynamic_annotations.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/enumobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/errcode.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/eval.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/fileobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/fileutils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/floatobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/frameobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/funcobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/genobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/graminit.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/grammar.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/import.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/ceval.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/condvar.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/context.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/gil.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/hamt.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/hash.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/import.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/mem.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/pygetopt.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/pystate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/internal/warnings.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/intrcheck.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/iterobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/listobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/longintrepr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/longobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/marshal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/memoryobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/metagrammar.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/methodobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/modsupport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/moduleobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/namespaceobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/node.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/object.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/objimpl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/odictobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/opcode.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/osdefs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/osmodule.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/parsetok.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/patchlevel.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pgen.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pgenheaders.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/py_curses.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyarena.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyatomic.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pycapsule.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyconfig.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyctype.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pydebug.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pydtrace.d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pydtrace.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyerrors.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyexpat.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyfpe.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyhash.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pylifecycle.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymacconfig.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymacro.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymath.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pymem.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pyport.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystate.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystrcmp.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystrhex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pystrtod.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pythonrun.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pythread.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/pytime.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/rangeobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/setobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/sliceobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/structmember.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/structseq.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/symtable.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/sysmodule.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/token.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/traceback.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/tupleobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/typeslots.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/ucnhash.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/unicodeobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/warnings.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/include/weakrefobject.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/libs/_tkinter.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/libs/python3.lib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dns_uba/ref/python/libs/python37.lib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../dns_uba/dns_uba.vcxproj.user" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -823,7 +62,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/4classify_and_forecast$user_forecast.coverage" NAME="user_forecast Coverage Results" MODIFIED="1556027512827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/4classify_and_forecast$kmeans_and_randomforest.coverage" NAME="kmeans_and_randomforest Coverage Results" MODIFIED="1556025435200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/4classify_and_forecast$kmeans_and_randomforest.coverage" NAME="kmeans_and_randomforest Coverage Results" MODIFIED="1557369756306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/4classify_and_forecast$RF1.coverage" NAME="RF1 Coverage Results" MODIFIED="1556025014284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
@@ -880,9 +119,9 @@
     <session id="62442714">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -892,10 +131,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kmeans_and_randomforest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="-1722">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
+                <element signature="e#24#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -906,9 +145,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="250">
               <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -980,7 +216,7 @@
       <path value="$PROJECT_DIR$/matplotlib/backends/web_backend/jquery-ui-1.12.1/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -991,7 +227,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1007,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1037,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.user_forecast">
+  <component name="RunManager" selected="Python.kmeans_and_randomforest">
     <configuration name="RF1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="4classify_and_forecast" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1111,8 +347,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.user_forecast" />
         <item itemvalue="Python.kmeans_and_randomforest" />
+        <item itemvalue="Python.user_forecast" />
         <item itemvalue="Python.RF1" />
       </list>
     </recent_temporary>
@@ -1131,15 +367,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1300268" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16286863" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.84985834" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1148,7 +383,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32719547" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.8201133" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1200,13 +435,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/list.py" />
-    <entry file="file://$PROJECT_DIR$/numpy/core/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy/core/__init__.py" />
     <entry file="file://D:/Anaconda3/Lib/ctypes/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="395">
@@ -1229,18 +458,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kmeans.png" />
-    <entry file="file://$PROJECT_DIR$/user_forecast.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/user_forecast.csv" />
     <entry file="file://$PROJECT_DIR$/result.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/kmeans_and_randomforest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="-1722">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#24#55#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1249,9 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
